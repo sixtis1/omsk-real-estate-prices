@@ -1,6 +1,6 @@
 # Прогнозирование цен на недвижимость г. Омска с учётом геопространственных данных
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/USERNAME/REPO/blob/main/notebooks/real_estate_prediction.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sixtis1/omsk-real-estate-prices/blob/main/notebooks/real_estate_prediction.ipynb)
 ![Python](https://img.shields.io/badge/python-3.12-blue)
 ![XGBoost](https://img.shields.io/badge/XGBoost-3.2-orange)
 
@@ -64,7 +64,7 @@
 ## Как запустить
 
 ```bash
-git clone https://github.com/USERNAME/REPO.git
+git clone https://github.com/sixtis1/omsk-real-estate-prices.git
 cd REPO
 pip install -r requirements.txt
 ```
