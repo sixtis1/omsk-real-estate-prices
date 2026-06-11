@@ -1,0 +1,23 @@
+# Данные — не публикуются
+data/*.csv
+*.csv
+!reports/**/*.csv
+
+# Артефакты моделей
+*.pkl
+output/
+content/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE и ОС
+.idea/
+.vscode/
+.DS_Store
